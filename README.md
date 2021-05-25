@@ -8,9 +8,11 @@ Kill the aliens, collect points and surive. Every round are alients 1.7x faster 
 
 
 ## Getting Started
-Download files, execute pycharm and basicly thats it. 
+Download files, execute pycharm and copy the stuff. 
 
 ### Dependencies
+
+Link to download pycharm: https://www.jetbrains.com/pycharm/download/#section=windows
 
 Recommended Windows 10
 
