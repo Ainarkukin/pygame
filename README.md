@@ -1,21 +1,40 @@
-#My README written in py.charm
+# Project Title
 
-#game.py
+Shooting game
 
-#Creator
-     #Ainar Kukin
+## Description
 
-#GAME CONTROLS
-    #Space = shoot bullets
-    #W=forward
-    #S=down
-    #A=Left
-    #D=Right
-
-#Yes, you can choose among **several** markups for your documentation needs.
-    #1) .pod
-    #2) .textile
-    #3) .rdoc
-    #4) .rst
+Kill the aliens, collect points and surive. Every round are alients 1.7x faster than usualy.
 
 
+## Getting Started
+Download files, execute pycharm and basicly thats it. 
+
+### Dependencies
+
+Recommended Windows 10
+
+### Controls
+
+S = Ship down
+A = Ship left
+D = Ship right
+W = Ship up 
+Space = Shoot bullets
+
+
+### Executing program
+
+How to run game? (Shift + F10)
+
+
+## Help
+
+If you have any problems, contact: ainar.kukin@khk.ee
+
+
+## Author
+
+Ainar Kukin
+
+    
